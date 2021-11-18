@@ -1,0 +1,20 @@
+{
+  "name": "gitflow-version",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalermporn/gitflow-version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chalermporn/gitflow-version/issues"
+  },
+  "homepage": "https://github.com/chalermporn/gitflow-version#readme"
+}
